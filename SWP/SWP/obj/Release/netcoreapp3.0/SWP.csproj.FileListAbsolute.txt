@@ -1,0 +1,11 @@
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.exe
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.deps.json
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.runtimeconfig.json
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.runtimeconfig.dev.json
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.dll
+C:\Users\hesim\source\repos\SWP\SWP\bin\Release\netcoreapp3.0\SWP.pdb
+C:\Users\hesim\source\repos\SWP\SWP\obj\Release\netcoreapp3.0\SWP.AssemblyInfoInputs.cache
+C:\Users\hesim\source\repos\SWP\SWP\obj\Release\netcoreapp3.0\SWP.AssemblyInfo.cs
+C:\Users\hesim\source\repos\SWP\SWP\obj\Release\netcoreapp3.0\SWP.dll
+C:\Users\hesim\source\repos\SWP\SWP\obj\Release\netcoreapp3.0\SWP.pdb
+C:\Users\hesim\source\repos\SWP\SWP\obj\Release\netcoreapp3.0\SWP.csprojAssemblyReference.cache
